@@ -4,11 +4,20 @@ using System.Linq;
 
 namespace GmailEmailProblem.Validation
 {
+    /// <summary>
+    /// A model representing a listing of errors for all bad email inputs
+    /// </summary>
     public class EmailValidationResultModel
     {
-        public string Message { get; set; }
+        /// <summary>
+        /// The overall error message
+        /// </summary>
+        public string Message { get; }
 
-        public IEnumerable<EmailValidationError> Errors { get; set; }
+        /// <summary>
+        /// Each individual error for any bad email inputs
+        /// </summary>
+        public IEnumerable<EmailValidationError> Errors { get; }
 
         public EmailValidationResultModel(IEnumerable<string> emails)
         {

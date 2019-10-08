@@ -4,6 +4,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace GmailEmailProblem.Validation
 {
+    /// <summary>
+    /// An ObjectResult for our email formatting errors, returns a 422
+    /// </summary>
     public class EmailValidationFormatFailedResult : ObjectResult
     {
         public EmailValidationFormatFailedResult(EmailValidationResultModel modelState)

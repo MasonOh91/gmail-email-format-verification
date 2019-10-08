@@ -19,6 +19,13 @@ namespace GmailEmailProblem.Controllers
             _emailFormatVerificationService = emailFormatVerificationService;
         }
 
+        /// <summary>
+        /// Our endpoint for this exercise, feed this emails via a POST body and receive
+        /// a listing of unique emails per the gmail formatting rules, with some very baseline
+        /// input validation.
+        /// </summary>
+        /// <param name="emails">The input emails</param>
+        /// <returns>IActionResult of the api endpoint</returns>
         [HttpPost("unique")]
         public IActionResult Post([FromBody]IEnumerable<string> emails)
         {
