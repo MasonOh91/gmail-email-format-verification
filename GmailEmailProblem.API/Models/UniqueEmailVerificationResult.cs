@@ -7,8 +7,14 @@ namespace GmailEmailProblemAPI.Models
     /// </summary>
     public class UniqueEmailVerificationResult
     {
+        /// <summary>
+        /// All of the emails that are unique within the set, with extra characters (+ and . in the username) removed
+        /// </summary>
         public IEnumerable<string> UniqueEmails { get; set; }
 
+        /// <summary>
+        /// The count of UniqueEmails
+        /// </summary>
         public int Count { get; set; }
     }
 }
