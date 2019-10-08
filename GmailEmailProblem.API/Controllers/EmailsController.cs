@@ -24,6 +24,8 @@ namespace GmailEmailProblem.Controllers
         {
             if (!ModelState.IsValid)
             {
+                // TODO: sounds like the WC3 thing is to process all of this stuff as a 422?
+                //       research and come back to this.
                 return BadRequest();
             }
             var emailsErrors = new EmailValidationResultModel(emails);
