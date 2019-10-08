@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dadc63b-db12-41ed-9cd2-e0958b2f467b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem/Controllers/EmailsController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem/GmailEmailProblemAPI.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem/Models/UniqueEmailVerificationResult.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem/Services/EmailFormatVerificationService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem/Services/IEmailFormatVerificationService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GmailEmailProblem/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GmailEmailProblem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GmailEmailProblem/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GmailEmailProblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GmailEmailProblem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem.sln" beforeDir="false" afterPath="$PROJECT_DIR$/GmailEmailProblem.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem/Controllers/EmailsController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem/GmailEmailProblem.API.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem/Models/UniqueEmailVerificationResult.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem/Services/EmailFormatVerificationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem/Services/IEmailFormatVerificationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GmailEmailProblem/appsettings.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,123 +23,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Services/IEmailFormatVerificationService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-              <folding>
-                <marker date="1570498194113" expanded="true" signature="6:68" ph="..." />
-                <marker date="1570498194113" expanded="true" signature="109:640" ph="{...}" />
-                <marker date="1570498194113" expanded="true" signature="116:212" ph="/// A service that represents email formatting verification ... " />
-                <marker date="1570498194113" expanded="true" signature="265:638" ph="{...}" />
-                <marker date="1570498194113" expanded="true" signature="280:549" ph="/// Verifies that the list of emails passed in are unique ... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Services/EmailFormatVerificationService.cs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-              <folding>
-                <marker date="1570498188124" expanded="true" signature="6:87" ph="..." />
-                <marker date="1570498188124" expanded="true" signature="128:1021" ph="{...}" />
-                <marker date="1570498188124" expanded="true" signature="212:1019" ph="{...}" />
-                <marker date="1570498188124" expanded="true" signature="391:1013" ph="{...}" />
-                <marker date="1570498188124" expanded="true" signature="490:774" ph="{...}" />
-                <marker date="1570498188124" expanded="true" signature="897:1002" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Startup.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-              <folding>
-                <marker date="1570497457570" expanded="false" signature="6:367" ph="..." />
-                <marker date="1570497457570" expanded="true" signature="396:1278" ph="{...}" />
-                <marker date="1570497457570" expanded="true" signature="423:1276" ph="{...}" />
-                <marker date="1570497457570" expanded="true" signature="482:545" ph="{...}" />
-                <marker date="1570497457570" expanded="true" signature="768:921" ph="{...}" />
-                <marker date="1570497457570" expanded="true" signature="1109:1270" ph="{...}" />
-                <marker date="1570497457570" expanded="true" signature="1156:1233" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding>
-                <marker date="1570479226935" expanded="false" signature="6:255" ph="..." />
-                <marker date="1570479226935" expanded="true" signature="284:605" ph="{...}" />
-                <marker date="1570479226935" expanded="true" signature="311:603" ph="{...}" />
-                <marker date="1570479226935" expanded="true" signature="364:422" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GmailEmailProblem/appsettings.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GmailEmailProblem/appsettings.Development.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Properties/launchSettings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Controllers/EmailsController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="99" lean-forward="true" selection-start-line="22" selection-start-column="99" selection-end-line="22" selection-end-column="99" />
-              <folding>
-                <marker date="1570498143625" expanded="false" signature="6:102" ph="..." />
-                <marker date="1570498143625" expanded="true" signature="143:874" ph="{...}" />
-                <marker date="1570498143625" expanded="true" signature="150:225" ph="/// Controller for all email API calls ... " />
-                <marker date="1570498143625" expanded="true" signature="304:872" ph="{...}" />
-                <marker date="1570498143625" expanded="true" signature="497:595" ph="{...}" />
-                <marker date="1570498143625" expanded="true" signature="697:866" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Models/UniqueEmailVerificationResult.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <marker date="1570498155972" expanded="true" signature="72:346" ph="{...}" />
-                <marker date="1570498155972" expanded="true" signature="79:183" ph="/// A model that represents the result of email unique verification ... " />
-                <marker date="1570498155972" expanded="true" signature="230:344" ph="{...}" />
-              </folding>
+              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -153,14 +43,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/GmailEmailProblem/Controllers/EmailsController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GmailEmailProblem/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GmailEmailProblem/Services/EmailFormatVerificationService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GmailEmailProblem/Services/IEmailFormatVerificationService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GmailEmailProblem/Models/UniqueEmailVerificationResult.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GmailEmailProblem/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -171,6 +53,8 @@
         <option value="$PROJECT_DIR$/GmailEmailProblem/Services/IEmailFormatVerificationService.cs" />
         <option value="$PROJECT_DIR$/GmailEmailProblem/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/GmailEmailProblem/Controllers/EmailsController.cs" />
+        <option value="$PROJECT_DIR$/.dockerignore" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -183,8 +67,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="x" value="1440" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -192,7 +77,6 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -203,37 +87,26 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="GmailEmailProblem" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GmailEmailProblemAPI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GmailEmailProblem.API" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="GmailEmailProblem" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GmailEmailProblemAPI" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="GmailEmailProblem" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GmailEmailProblemAPI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GmailEmailProblem.API" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="GmailEmailProblem" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GmailEmailProblemAPI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GmailEmailProblem.API" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="GmailEmailProblem" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GmailEmailProblemAPI" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Services" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
-        <option name="show-all-files" value="false" />
+        <option name="show-all-files" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,7 +130,7 @@
   </component>
   <component name="RunManager">
     <configuration name="GmailEmailProblemAPI: GmailEmailProblem" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/GmailEmailProblem/GmailEmailProblemAPI.csproj" />
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/GmailEmailProblem.API/GmailEmailProblem.API.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.0" />
       <option name="LAUNCH_PROFILE_NAME" value="GmailEmailProblem" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -282,12 +155,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570497081129</updated>
-      <workItem from="1570497085252" duration="1679000" />
+      <workItem from="1570497085252" duration="3105000" />
+      <workItem from="1570503344311" duration="221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1679000" />
+    <option name="totallyTimeSpent" value="3326000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -299,41 +173,40 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3192771" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="REST Client" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.32871288" />
       <window_info anchor="right" id="Errors In Solution" order="0" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Unit Tests Coverage" order="2" />
       <window_info anchor="right" id="Commander" order="3" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.25274727" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.22317597" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -346,105 +219,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Models/UniqueEmailVerificationResult.cs">
+    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Models/UniqueEmailVerificationResult.cs" />
+    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/appsettings.json" />
+    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/appsettings.Development.json" />
+    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Properties/launchSettings.json" />
+    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Services/IEmailFormatVerificationService.cs" />
+    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Services/EmailFormatVerificationService.cs" />
+    <entry file="file://$PROJECT_DIR$/.dockerignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <marker date="1570498155972" expanded="true" signature="72:346" ph="{...}" />
-            <marker date="1570498155972" expanded="true" signature="79:183" ph="/// A model that represents the result of email unique verification ... " />
-            <marker date="1570498155972" expanded="true" signature="230:344" ph="{...}" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <marker date="1570497457570" expanded="false" signature="6:367" ph="..." />
-            <marker date="1570497457570" expanded="true" signature="396:1278" ph="{...}" />
-            <marker date="1570497457570" expanded="true" signature="423:1276" ph="{...}" />
-            <marker date="1570497457570" expanded="true" signature="482:545" ph="{...}" />
-            <marker date="1570497457570" expanded="true" signature="768:921" ph="{...}" />
-            <marker date="1570497457570" expanded="true" signature="1109:1270" ph="{...}" />
-            <marker date="1570497457570" expanded="true" signature="1156:1233" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <marker date="1570479226935" expanded="false" signature="6:255" ph="..." />
-            <marker date="1570479226935" expanded="true" signature="284:605" ph="{...}" />
-            <marker date="1570479226935" expanded="true" signature="311:603" ph="{...}" />
-            <marker date="1570479226935" expanded="true" signature="364:422" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/appsettings.Development.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Properties/launchSettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Services/IEmailFormatVerificationService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-          <folding>
-            <marker date="1570498194113" expanded="true" signature="6:68" ph="..." />
-            <marker date="1570498194113" expanded="true" signature="109:640" ph="{...}" />
-            <marker date="1570498194113" expanded="true" signature="116:212" ph="/// A service that represents email formatting verification ... " />
-            <marker date="1570498194113" expanded="true" signature="265:638" ph="{...}" />
-            <marker date="1570498194113" expanded="true" signature="280:549" ph="/// Verifies that the list of emails passed in are unique ... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Services/EmailFormatVerificationService.cs">
+    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Controllers/EmailsController.cs" />
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-          <folding>
-            <marker date="1570498188124" expanded="true" signature="6:87" ph="..." />
-            <marker date="1570498188124" expanded="true" signature="128:1021" ph="{...}" />
-            <marker date="1570498188124" expanded="true" signature="212:1019" ph="{...}" />
-            <marker date="1570498188124" expanded="true" signature="391:1013" ph="{...}" />
-            <marker date="1570498188124" expanded="true" signature="490:774" ph="{...}" />
-            <marker date="1570498188124" expanded="true" signature="897:1002" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GmailEmailProblem/Controllers/EmailsController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="99" lean-forward="true" selection-start-line="22" selection-start-column="99" selection-end-line="22" selection-end-column="99" />
-          <folding>
-            <marker date="1570498143625" expanded="false" signature="6:102" ph="..." />
-            <marker date="1570498143625" expanded="true" signature="143:874" ph="{...}" />
-            <marker date="1570498143625" expanded="true" signature="150:225" ph="/// Controller for all email API calls ... " />
-            <marker date="1570498143625" expanded="true" signature="304:872" ph="{...}" />
-            <marker date="1570498143625" expanded="true" signature="497:595" ph="{...}" />
-            <marker date="1570498143625" expanded="true" signature="697:866" ph="{...}" />
-          </folding>
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
         </state>
       </provider>
     </entry>

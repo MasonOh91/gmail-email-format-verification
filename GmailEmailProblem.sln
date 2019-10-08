@@ -1,7 +1,7 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmailEmailProblemAPI", "GmailEmailProblem\GmailEmailProblemAPI.csproj", "{2DCBEA4E-6DA2-4CBE-8D03-5141837C50BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmailEmailProblem.API", "GmailEmailProblem.API\GmailEmailProblem.API.csproj", "{5D475C9A-D398-4A62-B61B-51C4C13E312C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2DCBEA4E-6DA2-4CBE-8D03-5141837C50BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DCBEA4E-6DA2-4CBE-8D03-5141837C50BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DCBEA4E-6DA2-4CBE-8D03-5141837C50BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DCBEA4E-6DA2-4CBE-8D03-5141837C50BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D475C9A-D398-4A62-B61B-51C4C13E312C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D475C9A-D398-4A62-B61B-51C4C13E312C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D475C9A-D398-4A62-B61B-51C4C13E312C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D475C9A-D398-4A62-B61B-51C4C13E312C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
