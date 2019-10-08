@@ -29,6 +29,9 @@ test-results/
 Thumbs.db
 .vs/
 
+# JetBrains Rider
+*.idea
+
 # Mac bundle stuff
 *.dmg
 *.app
